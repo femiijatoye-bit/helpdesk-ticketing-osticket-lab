@@ -1,5 +1,7 @@
-# soc-helpdesk-ticketing-lab
-# osTicket Helpdesk Lab (Docker Deployment + Admin Recovery)  This lab simulates a real-world IT helpdesk ticketing environment using osTicket deployed in Docker.   The objective was to practice helpdesk workflow, authentication troubleshooting, and basic SOC-style operational response.
+# Help Desk Ticketing Lab — osTicket
+
+A Docker-based osTicket lab covering ticket creation, assignment, response, resolution, and administrator-access recovery.
+
 ## Objectives
 
 - Deploy osTicket helpdesk system using Docker
